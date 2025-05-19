@@ -15,7 +15,14 @@ guia: carpeta de imagenes de la guia de uso que se debera ubicar dentro de image
 #### 2. Creación base de datos en Mongo 
 
 Descargar Mongo DB junto con mongo DB compas https://www.mongodb.com/try/download/community
-Abrir Mongo DB compass y crear base de datos de nombre camperspark.
-Abrir 
+Abrir Mongo DB compass y crear base de datos de nombre camperspark. 
+Abrir una terminal cmd y dirigirse al directorio del archivo camperpark.
+Ejecutar un npm install en caso de no tener instalado node. 
+Dentro del directorio camperspark, ejecutar los siguientes comandos en el orden indicado:
+ - node importar_parkings.js
+ - node añadir_centros.js
+ - node añadir_hospitales.js
+ - node cargar_gasolineras.js
+Finalmente ejecutar la aplicacion con el comando npm start pudiendo visualizar la página escribiendo http://localhost:3000
 
 
