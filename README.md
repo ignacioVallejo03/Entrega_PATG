@@ -1,12 +1,12 @@
 # Entrega_PATG
-Trabajo PATG realizado por Daniel Quico e Ignacio Vallejo. Pagina web dirigida a usuarios que busquen Parkings de caravanas.
+Trabajo PATG realizado por Daniel Quico e Ignacio Vallejo. Página web dirigida a usuarios que busquen Parkings de caravanas.
 
 ### Inicialización 
 #### 1. Infraestructura de la aplicación 
 Decomprimir archivos camperspark.zip , images.zip y guia.zip  
- - Camperspark: codigo de la aplicación y carpeta principal  
- - Images: carpeta de imagenes que se debe ubicar dentro de la carpeta public quedando camperspark/public/images  
- - guia: carpeta de imagenes de la guia de uso que se debera ubicar dentro de images  quedando camperspark/public/images/guia uso (*) dentro de guia deben estar localizadas todas la imagenes en caso de existir otra carpeta dentro de esta, se deberan sacar los archivos a la carpeta guia principal. quedando finalmente camperspark/public/images/guia/( imagenes de la guia.png)  
+ - Camperspark: cádigo de la aplicación y carpeta principal  
+ - images: carpeta de imágenes que se debe ubicar dentro de la carpeta public quedando camperspark/public/images  
+ - guia: carpeta de imágenes de la guía de uso que se debera ubicar dentro de images  quedando camperspark/public/images/guia uso (*) dentro de guía deben estar localizadas todas la imágenes, en caso de existir otra carpeta dentro de esta, se deberan sacar los archivos a la carpeta guía principal. Quedando finalmente camperspark/public/images/guia/( imagenes de la guia.png)  
 
 ![image](https://github.com/user-attachments/assets/0f9f34f0-f027-46f7-ac3c-96eb4acde68a)
 
@@ -24,6 +24,6 @@ Dentro del directorio camperspark, ejecutar los siguientes comandos en el orden 
  - node añadir_hospitales.js
  - node cargar_gasolineras.js
 
-Finalmente ejecutar la aplicacion con el comando npm start pudiendo visualizar la página escribiendo http://localhost:3000
+Finalmente ejecutar la aplicación con el comando npm start pudiendo visualizar la página escribiendo http://localhost:3000
 
 
