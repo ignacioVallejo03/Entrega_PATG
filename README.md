@@ -18,9 +18,9 @@ Descargar Mongo DB junto con mongo DB compas https://www.mongodb.com/try/downloa
 Abrir Mongo DB compass y crear base de datos de nombre camperspark.  
 Abrir una terminal cmd y dirigirse al directorio del archivo camperpark.  
 Ejecutar un npm install en caso de no tener instalado node.   
-'''
+```
 npm install
-'''  
+```  
 Dentro del directorio camperspark, ejecutar los siguientes comandos en el orden indicado:  
  - node importar_parkings.js  
  - node añadir_centros.js  
