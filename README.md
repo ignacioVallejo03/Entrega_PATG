@@ -1,5 +1,8 @@
+Fines únicamente academicos y sin ánimo de lucro.
+
+
 # Entrega_PATG
-Trabajo PATG realizado por Daniel Quico e Ignacio Vallejo. Página web dirigida a usuarios que busquen Parkings de caravanas.
+Trabajo para la asignatura de PATG realizado por Daniel Quico e Ignacio Vallejo. Página web dirigida a usuarios que busquen Parkings de caravanas.
 
 ### Inicialización 
 #### 1. Infraestructura de la aplicación 
