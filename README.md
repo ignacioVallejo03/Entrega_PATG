@@ -1,4 +1,4 @@
-Fines únicamente academicos y sin ánimo de lucro.
+Fines únicamente académicos y sin ánimo de lucro.
 
 
 # Entrega_PATG
@@ -31,5 +31,12 @@ Dentro del directorio camperspark, ejecutar los siguientes comandos en el orden 
  - node cargar_gasolineras.js
 
 Finalmente ejecutar la aplicación con el comando *npm start* pudiendo visualizar la página escribiendo http://localhost:3000
+
+Créditos a las siguientes fuentes de datos:
+https://www.areasac.es/areas-servicio-autocaravanas/areasaces/espana_4_1_ap.html  
+https://centrodedescargas.cnig.es/CentroDescargas/btn-poi  
+https://geoportalgasolineras.es/geoportal-instalaciones/DescargarFicheros  
+https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/biodiversidad/enp.html  
+https://hub.arcgis.com/datasets/68745a7fb7a348b6b0d722c8517790af/explore?location=38.976139%2C-4.465493%2C5.60  
 
 
