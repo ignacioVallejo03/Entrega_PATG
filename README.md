@@ -30,6 +30,6 @@ Dentro del directorio camperspark, ejecutar los siguientes comandos en el orden 
  - node añadir_hospitales.js
  - node cargar_gasolineras.js
 
-Finalmente ejecutar la aplicación con el comando npm start pudiendo visualizar la página escribiendo http://localhost:3000
+Finalmente ejecutar la aplicación con el comando *npm start* pudiendo visualizar la página escribiendo http://localhost:3000
 
 
