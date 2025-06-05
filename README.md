@@ -32,7 +32,7 @@ Dentro del directorio camperspark, ejecutar los siguientes comandos en el orden 
 
 Finalmente ejecutar la aplicación con el comando *npm start* pudiendo visualizar la página escribiendo http://localhost:3000
 
-Créditos a las siguientes fuentes de datos:
+Créditos a las siguientes fuentes de datos:  
 https://www.areasac.es/areas-servicio-autocaravanas/areasaces/espana_4_1_ap.html  
 https://centrodedescargas.cnig.es/CentroDescargas/btn-poi  
 https://geoportalgasolineras.es/geoportal-instalaciones/DescargarFicheros  
